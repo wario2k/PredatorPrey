@@ -1,3 +1,11 @@
+/** @file coyote.cpp
+ *  @brief Implementation of the Coyote class which inherits from Organismimpl
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
+
 #include "coyotee.hpp"
 
 Coyote::~Coyote() {}

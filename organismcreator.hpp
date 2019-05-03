@@ -1,3 +1,10 @@
+/** @file organismcreator.hpp
+ *  @brief Header for the Organism Creator Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #ifndef CREATOR_H
 #define CREATOR_H
 

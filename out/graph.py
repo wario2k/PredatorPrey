@@ -4,15 +4,10 @@ import sys
 import matplotlib.pyplot as plt
 
 
-def file_len(fname):
-    with open(fname) as f:
-        for i, l in enumerate(f):
-            pass
-    return i + 1
-
-
 def main():
+    #get file to read from
     input_filepath = sys.argv[1]
+    #get file to output to -> png format since we're printing a graph
     output_filepath = sys.argv[2]
 
     x = []
@@ -21,7 +16,7 @@ def main():
     header = None
 
     sample_rate = 10
-
+#parsing through the csv file
     with open(input_filepath, 'r') as csvfile:
         plots = csv.reader(csvfile, delimiter=',')
         for (index, row) in enumerate(plots):

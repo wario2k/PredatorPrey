@@ -1,3 +1,13 @@
+/** @file cell.cpp
+ *  @brief Implementation of the Cell Class 
+ *
+ *  This file contains the implementation for all the functions 
+ *  described in Cell.hpp
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #include "cell.hpp"
 /**
  * Brief: Default Constructor

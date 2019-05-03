@@ -3,17 +3,7 @@ init:
 
 build:
 	make init
-	g++ \
-	roadrunner.cpp \
-	cell.cpp \
-	controller.cpp \
-	organismcreator.cpp \
-	coyote.cpp \
-	grid.cpp \
-	main.cpp \
-	organism.cpp \
-	organismimpl.cpp \
-	-o out/simulation
+	g++ *.cpp
 
 run:
 	make build

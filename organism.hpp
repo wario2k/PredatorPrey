@@ -1,3 +1,10 @@
+/** @file organism.hpp
+ *  @brief Header for the Organism Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #ifndef ORGANISM_H
 #define ORGANISM_H
 

@@ -1,3 +1,10 @@
+/** @file organism.cpp
+ *  @brief Implementation for the Organism Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #include "organism.hpp"
 
 /**

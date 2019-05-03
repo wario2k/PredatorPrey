@@ -1,4 +1,8 @@
-///implementation of cell class 
+/** @file cell.hpp
+ *  @brief Header of the cell class
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ */
 #ifndef CELL_H
 #define CELL_H
 
@@ -18,7 +22,7 @@ public:
     int y;
     std::string str() const;
 };
-///vector to hold cells
+///vector to hold cells in the simulation
 typedef std::vector<Cell> CellVector;
 
 #endif /* CELL_H */

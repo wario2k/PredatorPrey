@@ -1,3 +1,11 @@
+/** @file grid.hpp
+ *  @brief Header for the Grid Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
+
 #ifndef GRID_H
 #define GRID_H
 

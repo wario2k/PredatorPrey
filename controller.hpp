@@ -1,3 +1,11 @@
+/** @file controller.hpp
+ *  @brief Header for the GridController Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
+
 #ifndef CONTROLLER_H
 #define CONTROLLER_H
 

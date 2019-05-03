@@ -1,3 +1,11 @@
+
+/** @file organismimpl.hpp
+ *  @brief Header for the Organism Implementor Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #ifndef ORGANISMIMPL_H
 #define ORGANISMIMPL_H
 

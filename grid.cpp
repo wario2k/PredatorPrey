@@ -1,3 +1,10 @@
+/** @file grid.cpp
+ *  @brief Implementation for the Grid Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #include "grid.hpp"
 
 const int POSSIBLE_ADJACENT_CELL_COUNT = 4;

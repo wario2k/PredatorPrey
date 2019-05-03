@@ -1,3 +1,11 @@
+/** @file coyote.hpp
+ *  @brief Header for the Coyote Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
+
 #ifndef COYOTE_H
 #define COYOTE_H
 

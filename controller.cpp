@@ -1,3 +1,12 @@
+/** @file controller.cpp
+ *  @brief Implementation for the GridController Class
+ *
+ *  Description : Contains controls for all elements of the simulation
+ * 
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #include "controller.hpp"
 /**
  * Brief : Default Constructor

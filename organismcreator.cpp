@@ -1,3 +1,10 @@
+/** @file organismcreator.cpp
+ *  @brief Implementation for the Organism Creator Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #include "organismcreator.hpp"
 
 /**

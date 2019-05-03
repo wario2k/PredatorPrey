@@ -1,3 +1,11 @@
+
+/** @file roadrunner.hpp
+ *  @brief Header for the Roadrunner Class
+ *
+ *  @author Aayush B Shrestha 
+ *  @bug No known bugs.
+ *  
+ */
 #ifndef ROADRUNNER_H
 #define ROADRUNNER_H
 
