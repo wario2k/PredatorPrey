@@ -21,6 +21,11 @@ class Simulation
         int xSize, ySize, numRoadrunners, numCoyotes, numSteps, count; 
         /* Private constructor to prevent instancing. */
         Simulation();
+        void getBoardSize();
+        void getRoadrunners();
+        void getCoyotes();
+        void getSteps();
+        
     protected:
         std::ofstream out_stream;
         std::string temp;
@@ -28,10 +33,7 @@ class Simulation
     public:
         /* Static access method. */
         static Simulation* getInstance();
-        void getBoardSize();
-        void getRoadrunners();
-        void getCoyotes();
-        void getSteps();
         void runSimulation();
+        
 
 };

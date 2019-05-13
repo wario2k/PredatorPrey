@@ -46,7 +46,7 @@ void Simulation::getBoardSize()
         {
             throw "Invalid value provided! Program will exit";
         }
-        std::cout<<"Initalized X = "<<xSize <<" Y =  "<< ySize <<std::endl;
+        
     }
     catch(...)
     {

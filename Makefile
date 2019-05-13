@@ -3,11 +3,11 @@ init:
 
 build:
 	make init
-	g++ *.cpp
+	g++ *.cpp -o out/simulation
 
 run:
 	make build
 	out/simulation
 
 graph: 
-	python out/graph.py out/simulation.csv out/out.png
+	python graph.py out/simulation.csv out/out.png
