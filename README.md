@@ -1,5 +1,4 @@
 # Predator Prey Simulator
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Summary
 - For the simulation,you will have the prey be some number **(​r​)** of road runner(s) and the predators are some number of coyote(s) **(​c​)**. 
